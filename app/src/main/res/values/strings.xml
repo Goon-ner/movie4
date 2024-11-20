@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie4</string>
+    <string name="button_rand">Randomize</string>
+    <string name="hello_page">Не знаете что посмотреть вечером? Нажмите кнопку "Randomize" и приложение выберет вам случайный фильм из Топ-250</string>
+</resources>
