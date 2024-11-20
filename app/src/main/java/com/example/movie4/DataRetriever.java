@@ -4,7 +4,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class DataRetriever {
-    private static final String BASE_URL = "http://192.168.56.1:8080/";
+    private static final String BASE_URL = "http://localhost:8080/";
     public ApiService apiService;
 
     public DataRetriever() {
